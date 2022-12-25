@@ -10,19 +10,19 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] Solved
 
 ## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/) (H)
 
-- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-substring/) (H)
 
-- [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+- [X] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) (H)
 
-- [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [X] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [X] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
@@ -261,17 +261,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Hash Maps
 
-- [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
+- [X] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
 
 - [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 
-- [ ] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+- [X] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
-- [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
+- [X] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-- [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [X] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [X] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
 ## Knowing What to Track
 
@@ -319,17 +319,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Bitwise Manipulation
 
-- [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+- [X] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 
-- [ ] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
+- [X] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
 
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [X] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
+- [X] [Single Number](https://leetcode.com/problems/single-number/)
 
-- [ ] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
+- [X] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
 
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [X] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ## Challenge Yourself
 
