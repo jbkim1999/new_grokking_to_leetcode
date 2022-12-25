@@ -207,9 +207,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Stacks
 
-- [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/) (H)
 
-- [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [X] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 - [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
@@ -217,7 +217,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Tree Depth First Search
 
@@ -263,7 +263,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
 
-- [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+- [X] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 
 - [X] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
