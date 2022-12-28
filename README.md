@@ -183,7 +183,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Missing Number](https://leetcode.com/problems/missing-number/)
 
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) (H)
+- [X] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) (H)
 
 - [X] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
