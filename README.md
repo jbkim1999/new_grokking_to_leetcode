@@ -181,15 +181,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Cyclic Sort
 
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [X] [Missing Number](https://leetcode.com/problems/missing-number/)
 
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) (H)
 
-- [ ] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [X] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-- [ ] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
+- [X] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
 
-- [ ] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
+- [X] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ## Topological Sort
 
