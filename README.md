@@ -75,7 +75,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Two Heaps
 
-- [ ] [Maximize Capital](https://leetcode.com/problems/ipo/) (H)
+- [X] [Maximize Capital](https://leetcode.com/problems/ipo/) (H)
 
 - [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) (H)
 
