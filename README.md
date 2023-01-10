@@ -159,7 +159,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
-- [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (H)
 
 - [ ] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
 
@@ -221,17 +221,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Tree Depth First Search
 
-- [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+- [X] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (H)
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [X] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [X] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (H)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ## Tree Breadth First Search
 
