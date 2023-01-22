@@ -235,15 +235,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [X] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
-- [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [X] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-- [ ] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- [X] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
-- [ ] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [ ] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) (not available)
 
 ## Trie
 
